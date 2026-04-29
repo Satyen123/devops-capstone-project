@@ -12,3 +12,6 @@ This project demonstrates Continuous Integration and Continuous Delivery (CI/CD)
 ## Author
 
 Satyen Sharma
+# DevOps Capstone Project
+
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
